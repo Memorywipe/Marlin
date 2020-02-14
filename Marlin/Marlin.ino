@@ -1,7 +1,7 @@
 /*
 ================================================================================
 
-  Marlin Firmware
+  M6arlin Firmware
 
   (c) 2011-2019 MarlinFirmware
   Portions of Marlin are (c) by their respective authors.
